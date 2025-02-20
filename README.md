@@ -32,7 +32,7 @@
 目前闪狐云机场没有跑路，可以放心使用。
 
 ## 闪狐云机场评测
-更多有关闪狐云机场评测可访问：[https://jichangzhu.com/node/flashfox/](https://jichangzhu.com/node/dageyun/)
+更多有关闪狐云机场评测可访问：[https://jichangzhu.com/node/flashfox/](https://jichangzhu.com/node/flashfox/)
 
 ## 机场推荐
  - [最新好用的机场推荐与节点分享](https://github.com/jichangzhu/JichangTuijian)
